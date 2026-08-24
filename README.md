@@ -29,6 +29,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - inferit | [demo](https://inferit.index.garden/) | [source](https://github.com/devidw/inferit)
 - L-GPT | [demo](https://le-ai.app/) | [source](https://github.com/Peek-A-Booo/L-GPT)
 - LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat)
+- MossChat | [demo](https://mosschat.xyz) | [source](https://github.com/Sparky579/MossChat)
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
 - OrionChat | [demo](https://eliaspereirah.github.io/OrionChat) | [source](https://github.com/EliasPereirah/OrionChat)
 - SlickGPT | [demo](https://slickgpt.vercel.app) | [source](https://github.com/ShipBit/slickgpt)
